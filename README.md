@@ -2,9 +2,9 @@
 
 # Anshu Dayal
 
-### Aspiring Full-Stack Data Scientist | Python · Data Analytics · Web Development
+### Aspiring Full-Stack Data Scientist | Python · Data Analytics · Web Development · Agentic AI
 
-I build practical software and explore data-driven solutions. I’m developing hands-on experience across Python, data analysis, machine learning fundamentals, and full-stack web development.
+I build practical software and explore data-driven solutions. I’m developing hands-on experience across Python, data analysis, machine learning fundamentals, full-stack web development, and AI agent workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANSHU429-181717?style=for-the-badge&logo=github)](https://github.com/ANSHU429)
 
@@ -14,7 +14,7 @@ I build practical software and explore data-driven solutions. I’m developing h
 
 ## Professional summary
 
-Computer science learner focused on building a strong foundation in full-stack development and data science. My project work includes responsive web experiences, Python numerical computing, and software architecture. I’m interested in opportunities where I can contribute, learn from experienced teams, and grow through real-world projects.
+Computer science learner focused on building a strong foundation in full-stack development, data science, and agentic AI. My project work includes responsive web experiences, Python numerical computing, and software architecture. I’m interested in opportunities where I can contribute, learn from experienced teams, and grow through real-world projects.
 
 ## Core skills
 
@@ -61,6 +61,10 @@ Companion StaySphere project repository and product foundation.
 - Practicing data cleaning, exploratory analysis, and visualization
 - Learning machine learning concepts through guided projects
 - Improving full-stack development and project documentation
+- Exploring agentic AI concepts: LLM-powered agents, prompt and context design, tool/function calling, agent memory, and human oversight
+- Learning agent workflow patterns, including sequential, conditional, and multi-agent orchestration
+- Exploring Python agent frameworks and supporting tools such as LangChain, LangGraph, Pydantic, and FastAPI through tutorials and hands-on practice
+- Studying responsible agent development, including testing, evaluation, monitoring, and safe tool use
 
 ## Contact
 
