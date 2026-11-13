@@ -1,37 +1,64 @@
+<div align="center">
+
 # Hi, I'm Anshu Dayal 👋
 
-### Full-Stack Developer | Data Scientist | Machine Learning Enthusiast
+### Full-Stack Developer · Python & Data Science Enthusiast
 
-I build digital products that combine clean user experiences with practical data-driven problem solving. My work spans full-stack web development, Python-based data science, and machine learning experimentation.
+I build practical web experiences and Python projects—from responsive interfaces to data-focused problem solving.
 
-- 💻 Full-stack web development
-- 📊 Data analysis and visualization
-- 🤖 Machine learning and Python workflows
-- 🌐 Creating responsive, user-focused interfaces
-- 🚀 Learning by building real projects
+[![GitHub](https://img.shields.io/badge/GitHub-ANSHU429-181717?style=for-the-badge&logo=github)](https://github.com/ANSHU429)
 
-## Featured Projects
+</div>
 
-- [StaySphere](https://github.com/ANSHU429/STAY-SPHERE-) — A responsive property discovery platform with search, filters, and favourites for accommodation browsing.
-- [MFML](https://github.com/ANSHU429/MFML) — Python implementation of numerical linear algebra using Gaussian elimination and system verification.
-- [software_management_system_architecture](https://github.com/ANSHU429/software_management_system_architecture) — Architecture-focused project for software company data and process management.
-- [STAY-SPHERE](https://github.com/ANSHU429/STAY-SPHERE) — Product-based project foundation for building a scalable booking and stay platform.
+---
 
-## Tech Stack
+## About me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I enjoy turning ideas into useful, clearly presented software. My projects include a property-discovery experience, Python implementations of numerical methods, and software-management system architecture.
 
-## GitHub Stats
+- 💻 Interested in full-stack web development and responsive user experiences
+- 🐍 Building with Python, including data analysis and numerical computing
+- 🤝 Open to freelance projects, collaborations, and company opportunities
+- 🌱 Focused on learning through hands-on projects and thoughtful iteration
 
-![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANSHU429&show_icons=true&theme=radical)
+## What I can help with
 
-## Connect
+- Responsive web pages and front-end implementation
+- Prototypes and small web application features
+- Python scripts and numerical or data-focused projects
+- Turning a project brief into a clear, maintainable implementation
 
-- GitHub: [@ANSHU429](https://github.com/ANSHU429)
+## Featured projects
 
-> Building useful things with code, data, and design.
+### [StaySphere](https://github.com/ANSHU429/STAY-SPHERE-)
+An accommodation discovery and booking-platform project focused on helping travelers find a place to stay. Explore the repository for the current implementation and details.
+
+### [MFML](https://github.com/ANSHU429/MFML)
+A Python project exploring numerical linear algebra, including Gaussian elimination and solving systems of equations.
+
+### [Software Management System Architecture](https://github.com/ANSHU429/software_management_system_architecture)
+An architecture-focused project exploring software-company data and process management.
+
+### [STAY-SPHERE](https://github.com/ANSHU429/STAY-SPHERE)
+A companion StaySphere project repository and product foundation.
+
+## Skills & tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Let's connect
+
+If you're hiring, have a freelance project, or would like to collaborate, [send me a message on GitHub](https://github.com/ANSHU429).
+
+---
+
+<div align="center">
+
+*Building useful things with code, data, and design.*
+
+</div>
